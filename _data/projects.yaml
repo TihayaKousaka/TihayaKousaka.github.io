@@ -1,5 +1,5 @@
 - title: MAPPO
-  subtitle: NeurIPS 2022(<span style="color:red">Over 3000 citations</span>)
+  subtitle: NeurIPS 2022(<span style="color:red">Over 3000 citations</span>) implementation of Multi-Agent PPO (MAPPO)
   image: images/projects/mappo1.png
   link: https://github.com/marlbenchmark
   repo: marlbenchmark/on-policy

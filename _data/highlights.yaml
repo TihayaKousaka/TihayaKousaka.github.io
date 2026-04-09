@@ -1,65 +1,122 @@
 - authors:
-  - Pengcheng Huang
-  - Tianming Liu
-  - Zhenghao Liu
-  - Yukun Yan
-  - Shuo Wang
-  - Tong Xiao
-  - Zulong Chen
-  - Maosong Sun
-  date: '2026-01-01'
-  mark: acl2026-main
-  image: images/projects/uncode.webp
-  link: 'https://arxiv.org/abs/2508.13021'
-  publisher: Proceedings of ACL
-  title: 'Empirical Analysis of Decoding Biases in Masked Diffusion Models'
+    - Chao Yu
+    - Akash Velu
+    - Eugene Vinitsky
+    - Jiaxuan Gao
+    - Yu Wang
+    - Alexandre Bayen
+    - Yi Wu
+  date: '2022-01-01'
+  image: images/ppogames.png
+  link: 'https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html'
+  title: 'The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games'
+  mark: neurips2022
+  publisher: Proceedings of NeurIPS
+
 - authors:
-  - Shaohua Duan
-  - Pengcheng Huang
-  - Xinze Li
-  - Zhenghao Liu
-  - Xiaoyuan Yi
-  - Yukun Yan
-  - Shuo Wang
-  - Yu Gu
-  - Ge Yu
-  - Maosong Sun
-  date: '2026-01-01'
-  mark: acl2026-main
-  image: images/projects/longmabpo.webp
-  link: 'https://arxiv.org/abs/2508.13993'
-  publisher: Proceedings of ACL
-  title: 'Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization'
+    - Shusheng Xu
+    - Wei Fu
+    - Jiaxuan Gao
+    - Wenjie Ye
+    - Weilin Liu
+    - Zhiyu Mei
+    - Guangju Wang
+    - Chao Yu
+    - Yi Wu
+  date: '2024-01-01'
+  image: images/dpostudy.png
+  link: 'https://arxiv.org/abs/2404.10719'
+  title: 'Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study'
+  mark: icml2024
+  publisher: Proceedings of ICML
+
 - authors:
-  - Zhenghao Liu
-  - Zhuoyang Wu
-  - Xinze Li
-  - Yukun Yan
-  - Shuo Wang
-  - Zulong Chen
-  - Yu Gu
-  - Ge Yu
-  - Maosong Sun
-  date: '2026-01-01'
-  mark: acl2026-main
-  image: images/projects/palign.webp
-  link: 'https://arxiv.org/abs/2601.10064'
-  publisher: Proceedings of ACL
-  title: 'Long-Chain Reasoning Distillation via Adaptive Prefix Alignment'
+    - Zelai Xu
+    - Chao Yu
+    - Fei Fang
+    - Yu Wang
+    - Yi Wu
+  date: '2024-01-01'
+  image: images/werewolf.png
+  link: 'https://arxiv.org/abs/2310.18940'
+  title: 'Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game'
+  mark: icml2024
+  publisher: Proceedings of ICML
+
 - authors:
-  - Yifan Ji
-  - Zhipeng Xu
-  - Zhenghao Liu
-  - Zulong Chen
-  - Qian Zhang
-  - Zhibo Yang
-  - Junyang Lin
-  - Yu Gu
-  - Ge Yu
-  - Maosong Sun
+    - Hongzhi Zang
+    - Mingjie Wei
+    - Si Xu
+    - Yongji Wu
+    - Zhen Guo
+    - Yuanqing Wang
+    - Hao Lin
+    - Liangzhi Shi
+    - Yuqing Xie
+    - Zhexuan Xu
+    - Zhihao Liu
+    - Kang Chen
+    - Wenhao Tang
+    - Quanlu Zhang
+    - Weinan Zhang
+    - Chao Yu
+    - Yu Wang
+  date: '2025-01-01'
+  image: images/rlinfvla.png
+  link: 'https://arxiv.org/abs/2510.06710'
+  title: 'RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training'
+  mark: rlinfvla2025
+  publisher: arXiv preprint
+
+- authors:
+    - Chao Yu
+    - Yuanqing Wang
+    - Zhen Guo
+    - Hao Lin
+    - Si Xu
+    - Hongzhi Zang
+    - Quanlu Zhang
+    - Yongji Wu
+    - Chunyang Zhu
+    - Junhao Hu
+    - Zixiao Huang
+    - Mingjie Wei
+    - Yuqing Xie
+    - Ke Yang
+    - Bo Dai
+    - Zhexuan Xu
+    - Jiakun Du
+    - Xiangyuan Wang
+    - Xu Fu
+    - Letong Shi
+    - Zhihao Liu
+    - Kang Chen
+    - Weilin Liu
+    - Gang Liu
+    - Boxun Li
+    - Jianlei Yang
+    - Zhi Yang
+    - Guohao Dai
+    - Yu Wang
+  date: '2025-01-01'
+  image: images/rlinf.png
+  link: 'https://arxiv.org/abs/2509.15965'
+  title: 'RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation'
+  mark: rlinf2025
+  publisher: arXiv preprint
+
+- authors:
+    - Zelai Xu
+    - Zhexuan Xu
+    - Xiangmin Yi
+    - Huining Yuan
+    - Xinlei Chen
+    - Yongji Wu
+    - Chao Yu
+    - Yu Wang
   date: '2026-01-01'
-  mark: acl2026-main
-  image: images/projects/unikiebench.webp
-  link: 'https://arxiv.org/abs/2602.07038'
-  publisher: Proceedings of ACL
-  title: 'UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents'
+  image: images/vsbench.png
+  link: 'https://arxiv.org/abs/2506.02387'
+  title: 'VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments'
+  mark: iclr2026
+  publisher: Proceedings of ICLR
