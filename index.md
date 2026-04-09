@@ -9,7 +9,7 @@
 
 ## 亮点工作
 
-{% include list.html data="highlights" component="citation" filters="mark: acl2026-main" style="rich" %}
+{% include list.html data="highlights" component="citation" style="rich" %}
 
 ## 最新动态
 
