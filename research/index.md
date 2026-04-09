@@ -13,7 +13,7 @@ nav:
 {% include search-info.html %}
 
 ## Conference
-{% include list.html data="citations" component="citation" filters="publisher: .*Proceedings.*" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" %}
 
 ## Journal
 {% include list.html data="citations" component="citation" filters="publisher: .*Journal.*" style="rich" %}
