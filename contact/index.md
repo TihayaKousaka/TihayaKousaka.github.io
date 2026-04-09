@@ -1,5 +1,5 @@
 ---
-title: 加入我们
+title: Join Us
 nav:
   order: 6
 ---

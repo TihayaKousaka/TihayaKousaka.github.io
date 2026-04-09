@@ -1,5 +1,5 @@
 ---
-title: 开源项目
+title: Projects
 nav:
   order: 2
 ---

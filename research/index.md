@@ -1,19 +1,17 @@
 ---
-title: 论文发表
+title: Publications
 nav:
   order: 1
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## ALL
+## Search
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-## Conference
+## Conference & Journals
 {% include list.html data="citations" component="citation" style="rich" %}
 
-## Journal
-{% include list.html data="citations" component="citation" filters="publisher: .*Journal.*" style="rich" %}

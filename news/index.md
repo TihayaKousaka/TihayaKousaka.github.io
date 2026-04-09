@@ -1,5 +1,5 @@
 ---
-title: 最新动态
+title: News
 nav:
   order: 3
 ---

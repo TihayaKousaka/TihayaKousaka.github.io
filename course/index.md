@@ -1,5 +1,5 @@
 ---
-title: 合作课程
+title: Talks
 nav:
   order: 5
 ---
