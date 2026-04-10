@@ -17,7 +17,7 @@ Our lab is currently recruiting Master's students, Ph.D. students, joint-program
 
 {% include list.html data="posts" component="post-excerpt" limit=3 %}
 
-{% include button.html text="查看全部动态 →" link="news" %}
+{% include button.html text="View all news →" link="news" %}
 
 ## Talks
 
