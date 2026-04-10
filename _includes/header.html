@@ -2,7 +2,7 @@
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
 {% assign svg = "images/logo.svg" | file_exists %}
-{% assign webp = "images/logo.webp" | file_exists %}
+{% assign webp = "images/logo.png" | file_exists %}
 {% assign logo = svg | default: webp | default: nil %}
 
 <header
